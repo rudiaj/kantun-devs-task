@@ -1,4 +1,4 @@
-## Test test assignment for kantun using next.js, knext and postgres
+## Test assignment for kantun using next.js, knext and postgres
 
 ## Configuration
 
