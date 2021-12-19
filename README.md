@@ -2,7 +2,7 @@
 
 ## Configuration
 
-rename env.example to .env and fill with db credentials
+rename .env.example to .env and fill with db credentials
 
 ### Install dependencies
 
